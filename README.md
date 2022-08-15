@@ -1,3 +1,5 @@
+This is forked from gnosis cpk sdk fork, adjust for surport ether.js.
+
 # Contract Proxy Kit Monorepo
 
 [![Coverage Status](https://coveralls.io/repos/github/gnosis/contract-proxy-kit/badge.svg?branch=master)](https://coveralls.io/github/gnosis/contract-proxy-kit?branch=master)
